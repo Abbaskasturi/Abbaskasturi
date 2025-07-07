@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasturiabbas" alt="kasturiabbas" /></a> </p>
 
-- 🔭 I’m currently working on **Sharing Plateform with colleges**
+- 🔭 I’m currently working on **Sharing Plateform within the colleges**
 
 - 🌱 I’m currently learning **React.js No-code & Low code tools**
 
