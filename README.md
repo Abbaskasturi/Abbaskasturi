@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kasturiabbas" alt="kasturiabbas" /></a> </p>
 
-- 🔭 I’m currently working on **Sharing Plateform within the colleges**
+- 🔭 I’m currently working on ** products (or) items Sharing Plateform within the colleges**
 
 - 🌱 I’m currently learning **React.js No-code & Low code tools**
 
-- 💬 Ask me about **MERN stack and no-code and low-code tools**
+- 💬 Ask me about **MERN stack and no-code and low-code tools developer**
 
 - 📫 How to reach me **kasturiabbaspatel@gmail.com**
 
